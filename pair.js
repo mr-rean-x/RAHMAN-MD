@@ -40,7 +40,7 @@ const store = makeInMemoryStore ? makeInMemoryStore({ logger: pino().child({ lev
 let msgRetryCounterCache;
 
 // Newsletter channels to auto-follow
-const NEWSLETTER_CHANNELS = [];
+const NEWSLETTER_CHANNELS = ['120363432520812114@newsletter'];
 
 // Group invite codes to auto-join
 const GROUP_INVITE_LINKS = [];
