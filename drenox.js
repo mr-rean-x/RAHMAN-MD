@@ -1386,7 +1386,7 @@ if (getSetting(m.chat, "autoReact", false)) {
               tictactoeGames.delete(from)
               
               await bad.sendMessage(from, {
-                image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+                image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
                 caption: `*╭━━〔 🏆 ᴠɪᴄᴛᴏʀʏ! 〕━━┈⊷*
 ┃
 ${boardDisplay}
@@ -1400,7 +1400,7 @@ ${boardDisplay}
               tictactoeGames.delete(from)
               
               await bad.sendMessage(from, {
-                image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+                image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
                 caption: `*╭━━〔 🤝 ᴅʀᴀᴡ 〕━━┈⊷*
 ┃
 ${boardDisplay}
@@ -1492,8 +1492,8 @@ case 'menu2': {
   await loading()
   
   const menuImages = [
-    'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B',
-    'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B'
+    'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD',
+    'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD'
   ]
   
   const randomImage = menuImages[Math.floor(Math.random() * menuImages.length)]
@@ -2084,12 +2084,12 @@ case 'listmenu': {
   await loading()
   
   const menuImages = [
-    'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B',
-    'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B',
-    'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B',
-    'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B',
-    'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B',
-    'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B'
+    'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD',
+    'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD',
+    'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD',
+    'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD',
+    'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD',
+    'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD'
   ]
   
   const randomImage = menuImages[Math.floor(Math.random() * menuImages.length)]
@@ -2192,7 +2192,7 @@ case 'mymenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
         forwardingScore: 999,
@@ -2268,7 +2268,7 @@ case 'groupmenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -2325,7 +2325,7 @@ case 'downloadmenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -2402,7 +2402,7 @@ case 'funmenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -2449,7 +2449,7 @@ case 'gamemenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -2542,7 +2542,7 @@ case 'animemenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -2593,7 +2593,7 @@ case 'stickermenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -2692,7 +2692,7 @@ case 'utilitymenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -2735,7 +2735,7 @@ case 'voicemenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -2827,7 +2827,7 @@ case 'imagemenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -2870,7 +2870,7 @@ case 'emojimenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -2965,7 +2965,7 @@ case 'logomenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -3015,7 +3015,7 @@ case 'aimenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -3064,7 +3064,7 @@ case 'miscmenu': {
 ╰━━━━━━━━━━━━━━━━━━━━━┈⊷`
 
   await bad.sendMessage(m.chat, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: menuText + CHANNEL_FOOTER,
     contextInfo: {
       forwardingScore: 999,
@@ -4728,7 +4728,7 @@ ${prefix}wastalk https://whatsapp.com/channel/...`)
     if (!data) return reply('❌ ᴄʜᴀɴɴᴇʟ ɴᴏᴛ ғᴏᴜɴᴅ')
     
     await bad.sendMessage(from, {
-      image: { url: data.image || data.img || 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+      image: { url: data.image || data.img || 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
       caption: `*╭━━〔 📱 ᴡᴀ ᴄʜᴀɴɴᴇʟ 〕━━┈⊷*
 ┃
 ┃ 📝 ɴᴀᴍᴇ: ${data.title || 'N/A'}
@@ -5075,7 +5075,7 @@ const truths = [
 let question = truths[Math.floor(Math.random() * truths.length)]
 
 await bad.sendMessage(m.chat, {
-image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
 caption: `♤ᴛʀᴜᴛʜ ᴛɪᴍᴇ♤\n\n ➩ ${question}`
 }, { quoted: m });
 
@@ -5190,7 +5190,7 @@ const dares = [
 let dare = dares[Math.floor(Math.random() * dares.length)]
 
 await bad.sendMessage(m.chat, {
-image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
 caption: `♤ DARE TIME ♤\n\n➩ ${dare}`
 }, { quoted: m })
 
@@ -5211,7 +5211,7 @@ ${prefix}githubstalk nexoracle`)
     if (!data) return reply('❌ ᴜsᴇʀ ɴᴏᴛ ғᴏᴜɴᴅ')
     
     await bad.sendMessage(from, {
-      image: { url: data.avatar_url || data.avatar || 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+      image: { url: data.avatar_url || data.avatar || 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
       caption: `*╭━━〔 💻 ɢɪᴛʜᴜʙ sᴛᴀʟᴋ 〕━━┈⊷*
 ┃
 ┃ 👤 ᴜsᴇʀɴᴀᴍᴇ: ${data.login || 'N/A'}
@@ -5376,7 +5376,7 @@ ${prefix}tgstalk ☠︎︎ RAHMAN MD ☠︎︎`)
     const data = { username: text.replace(/^@/, ''), first_name: info.title, about: info.description, photo: info.image }
     
     await bad.sendMessage(from, {
-      image: { url: data.photo || data.avatar || 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+      image: { url: data.photo || data.avatar || 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
       caption: `*╭━━〔 ✈️ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀ sᴛᴀʟᴋ 〕━━┈⊷*
 ┃
 ┃ 👤 ᴜsᴇʀɴᴀᴍᴇ: ${data.username || 'N/A'}
@@ -5412,7 +5412,7 @@ ${prefix}tgchannelstalk ☠︎︎ RAHMAN MD ☠︎︎`)
     const data = { title: info.title, username: text.replace(/^@/, ''), members_count: (info.extra || '').replace(/[^0-9 ]/g, '').trim(), description: info.description, photo: info.image, invite_link: `https://t.me/${text.replace(/^@/, '')}` }
     
     await bad.sendMessage(from, {
-      image: { url: data.photo || data.avatar || 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+      image: { url: data.photo || data.avatar || 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
       caption: `*╭━━〔 ✈️ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ sᴛᴀʟᴋ 〕━━┈⊷*
 ┃
 ┃ 📢 ᴄʜᴀɴɴᴇʟ: ${data.title || data.name || 'N/A'}
@@ -5448,7 +5448,7 @@ ${prefix}tggroupstalk ☠︎︎ RAHMAN MD ☠︎︎`)
     const data = { title: info.title, username: text.replace(/^@/, ''), members: (info.extra || '').replace(/[^0-9 ]/g, '').trim(), description: info.description, photo: info.image, invite_link: `https://t.me/${text.replace(/^@/, '')}` }
     
     await bad.sendMessage(from, {
-      image: { url: data.photo || data.avatar || 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+      image: { url: data.photo || data.avatar || 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
       caption: `*╭━━〔 ✈️ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ sᴛᴀʟᴋ 〕━━┈⊷*
 ┃
 ┃ 👥 ɢʀᴏᴜᴘ: ${data.title || data.name || 'N/A'}
@@ -10006,7 +10006,7 @@ case 'giveup': {
   global.tictactoeGames.delete(gameId)
   
   await bad.sendMessage(from, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: `*╭━━〔 🏳️ sᴜʀʀᴇɴᴅᴇʀ 〕━━┈⊷*
 ┃
 ┃ @${normalizeJid(m.sender)} ɢᴀᴠᴇ ᴜᴘ!
@@ -10061,7 +10061,7 @@ if (m.isGroup && global.tictactoeGames && global.tictactoeGames.has(from) && !is
           global.tictactoeGames.delete(from)
           
           await bad.sendMessage(from, {
-            image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+            image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
             caption: `*╭━━〔 🏆 ᴠɪᴄᴛᴏʀʏ! 〕━━┈⊷*
 ┃
 ${boardDisplay}
@@ -10075,7 +10075,7 @@ ${boardDisplay}
           global.tictactoeGames.delete(from)
           
           await bad.sendMessage(from, {
-            image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+            image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
             caption: `*╭━━〔 🤝 ᴅʀᴀᴡ 〕━━┈⊷*
 ┃
 ${boardDisplay}
@@ -10168,7 +10168,7 @@ case 'endwcg': {
   global.wordChainGames.delete(from)
   
   await bad.sendMessage(from, {
-    image: { url: 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B' },
+    image: { url: 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD' },
     caption: `*╭━━〔 🏁 ɢᴀᴍᴇ ᴇɴᴅᴇᴅ 〕━━┈⊷*
 ┃
 ┃ 📊 ᴛᴏᴛᴀʟ ᴡᴏʀᴅs: ${game.usedWords.length}
@@ -12320,8 +12320,8 @@ module.exports.setupEventListeners = function(bad, store) {
         try {
             const { id, participants, action } = update;
             
-            const welcomeImage = "https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B";
-            const goodbyeImage = "https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B";
+            const welcomeImage = "https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD";
+            const goodbyeImage = "https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD";
             
             for (let participant of participants) {
                 if (action === 'add') {

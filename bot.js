@@ -130,7 +130,7 @@ bot.onText(/\/start/, async (msg) => {
   // Private chat mein normal start message
   await bot.sendPhoto(
     chatId,
-    "https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B",
+    "https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD",
     {
       caption: `🪀 *RAHMAN MD 💀*\n\n╔════════════════════╗\n ⤷ /pair <wa_number>\n ⤷ /unpair <wa_number>\n╚════════════════════╝`,
       parse_mode: 'Markdown'

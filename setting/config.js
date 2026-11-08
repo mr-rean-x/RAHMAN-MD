@@ -6,7 +6,7 @@ global.status = false //"self/public" section of the bot
 global.prefa = ['','!','.','#','&','/','@']
 global.owner = ['923290706749']
 global.xprefix = '.'
-global.gambar = "https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B"
+global.gambar = "https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD"
 global.OWNER_NAME = "@RAHMAN IQBAL" //
 global.DEVELOPER = ["8811344173"] //
 global.BOT_NAME = "RAHMAN MD"
@@ -30,8 +30,8 @@ global.botname = "RAHMAN MD"
 global.author = "༒︎ RAHMAN IQBAL ༒︎"
 global.themeemoji = '🤞'
 global.wagc = ''
-global.thumbnail = 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B'
-global.richpp = 'https://drive.google.com/uc?export=download&id=1bb9xWvDefuPJzNCQfkfagf0oYpmOVY2B'
+global.thumbnail = 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD'
+global.richpp = 'https://drive.google.com/uc?export=download&id=1Ci6ES_RiyovzFvN7Us17NrjY5tQiKglD'
 global.packname = "𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 𖣘♔︎"
 global.author = "༒︎ RAHMAN IQBAL ༒︎"
 global.creator = "923290706749@s.whatsapp.net"
